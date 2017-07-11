@@ -1,7 +1,11 @@
 import { Component } from '@angular/core';
+import { MessagesComponent } from './messages.component';
 
 @Component({
   selector: 'my-app',
-  template: `<h1>Hello {{name}}</h1>`,
+  template: `
+  	<nav></nav>
+  	<router-outlet></router-outlet>
+  `,
 })
-export class AppComponent  { name = 'Angular'; }
+export class AppComponent  {}

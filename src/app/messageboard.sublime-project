@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.pyc",
+				"*.pyo",
+				".project",
+				"*.map",
+				"*.js"
+			],
+			"path": "/Users/zackherman/Documents/Projects/messageboard/frontend"
+		}
+	]
+}

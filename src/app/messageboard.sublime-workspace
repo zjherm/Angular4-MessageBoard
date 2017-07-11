@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"ori",
+				"originDate"
+			],
+			[
+				"desin",
+				"desintationCode"
+			],
+			[
+				"flight",
+				"FlightService"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.component.js.map",
+			"settings":
+			{
+				"buffer_size": 330,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"add pack",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/zackherman/Documents/Projects/messageboard/frontend",
+		"/Users/zackherman/Documents/Projects/messageboard/frontend/src",
+		"/Users/zackherman/Documents/Projects/messageboard/frontend/src/app"
+	],
+	"file_history":
+	[
+		"/Users/zackherman/Documents/my-app/src/app/my-app.sublime-project",
+		"/Users/zackherman/Documents/my-app/src/app/hero-detail.component.ts",
+		"/Users/zackherman/Documents/my-app/.sublime-project",
+		"/Users/zackherman/Documents/my-app/tslint.json",
+		"/Users/zackherman/Documents/my-app/src/app/app.module.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/components/home/home.scss",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/components/flightSelector/flightSelector.controller.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/components/flightSelector/flightSelector.html",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/components/home/home.html",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/services/flightService.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/components/flightSelector/flightSelector.component.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/components/home/home.controller.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/app.scss",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/components/home/home.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/components/home/home.component.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/app.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/components/components.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/services/services.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/services/flighService.js",
+		"/Users/zackherman/Documents/Projects/angularjs-gulp-browserify-boilerplate/app/index.html",
+		"/Users/zackherman/Documents/Projects/angularjs-gulp-browserify-boilerplate/app/views/home.html",
+		"/Users/zackherman/Documents/Projects/angularjs-gulp-browserify-boilerplate/app/js/services/example.js",
+		"/Users/zackherman/Documents/Projects/angularjs-gulp-browserify-boilerplate/app/js/controllers/index.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/package.json",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/node_modules/webpack/lib/dependencies/RequireContextPlugin.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/webpack.config.js",
+		"/Users/zackherman/Documents/Projects/NG6-todomvc-starter/src/app/app.component.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/app.component.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/components/flightSelector/flightSelector.js",
+		"/Users/zackherman/Documents/Projects/NG6-todomvc-starter/src/app/app.component.spec.js",
+		"/Users/zackherman/Documents/Projects/NG6-todomvc-starter/src/app/app.js",
+		"/Users/zackherman/Documents/Projects/NG6-todomvc-starter/src/app/services/todoList.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/common/services/flighService.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/common/services/services.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/common/services/flightService/FlighService.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/common/common.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/common/services/flightService/flighService.js",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/index.html",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/README.md",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/common/navbar/navbar.html",
+		"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app/common/services/flighservice.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/zackherman/Documents/Projects/Flight-Comparison/client/app",
+			"/Users/zackherman/Documents/Projects/Flight-Comparison",
+			"/Users/zackherman/Documents/Projects/NG6-todomvc-starter/src/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"alert",
+			"readme",
+			"p>",
+			"p",
+			".app",
+			"yyyy-MM-dd",
+			"destination",
+			" '/to/' + d",
+			"origin",
+			"desintationDate",
+			"rootScope",
+			"destinationData",
+			"originData",
+			"this.selected",
+			"getFlightInfo",
+			"enableButton",
+			"disableButton",
+			"$ctrl",
+			"airportSelected",
+			"$scope",
+			"label",
+			"model",
+			"item",
+			"flights",
+			"flightS",
+			"flights",
+			"success",
+			"data",
+			"test",
+			"flightData",
+			"flightCodes",
+			"http",
+			"constructor",
+			"FlightService",
+			"flightService",
+			"FlightService",
+			"todoList",
+			"flightData",
+			"getFlightData",
+			"FlightManagerService",
+			"webpack",
+			"stats",
+			"entry",
+			"extensions",
+			"modulesDirectories",
+			"todo",
+			"services",
+			"todolist",
+			"FlightService",
+			"  \t\n",
+			"Task",
+			"todoList",
+			"flightService",
+			"GetJson",
+			"tickerTapeService",
+			"flightServices",
+			"tickerTapeService",
+			"service"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.component.js.map",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "messageboard.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
